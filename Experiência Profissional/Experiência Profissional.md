@@ -1,7 +1,7 @@
 # Experiência Profissional :man_office_worker:
 - **Empresa:** MRS Logística S/A &nbsp; 
           **Função:** Programador de Produção. &nbsp; 
-          **Descrição:** Programo o transporte de minério pela malha ferroviária da MRS Logística desde a carga até a descarga do mesmo. &nbsp; 
+          **Descrição:** Realizo a Programação do transporte de minério pela malha ferroviária da MRS Logística desde a carga até a descarga do mesmo. &nbsp; 
           **Período:** 05/01/2022 – Atualmente. &nbsp; 
 - **Empresa:** Grupo Mult &nbsp; 
           **Função:** Analista de Suporte. &nbsp; 
