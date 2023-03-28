@@ -1,2 +1,2 @@
-# curriculum-vitae
+# Curriculum VITAE :)
 Curriculum VITAE de Márcio Acauhi
