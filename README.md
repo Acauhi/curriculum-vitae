@@ -1,6 +1,8 @@
 # Curriculum VITAE ℹ️
-**MARCIO ACAUHI BUENO**                                                                                   
 
+---
+**MARCIO ACAUHI BUENO**                                                                                   
+---
 Brasileiro – 32 anos – Divorciado. 
 ---
 **Rua:** Diomar Monteiro, Nº 1520, Bloco 6 AP 303.
