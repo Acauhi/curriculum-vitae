@@ -1,4 +1,4 @@
-# Curriculum VITAE
+# Curriculum VITAE 🗒️
 Curriculum VITAE de Márcio Acauhi
 
 ## Objetivo ⤴️
