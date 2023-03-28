@@ -1,6 +1,6 @@
 # Formação :man_student:
-- Graduado em Analise e Desenvolvimento de Sistemas
-        Faculdade Estácio de Sá
+- Graduado em Analise e Desenvolvimento de Sistemas &nbsp;
+        Faculdade Estácio de Sá &nbsp; 
         Período: 03/2014 a 12/2016
 
 - Instituição: Colégio PIO XII
